@@ -1,0 +1,10 @@
+D:\IdeaWorkspace\trista\sso-common\src\main\java\com\example\sso\common\interceptor\SecurityInterceptor.java
+D:\IdeaWorkspace\trista\sso-common\src\main\java\com\example\sso\common\dto\ResultInfo.java
+D:\IdeaWorkspace\trista\sso-common\src\main\java\com\example\sso\common\anno\Logical.java
+D:\IdeaWorkspace\trista\sso-common\src\main\java\com\example\sso\common\SsoCommonApplication.java
+D:\IdeaWorkspace\trista\sso-common\src\main\java\com\example\sso\common\anno\RequiredRoles.java
+D:\IdeaWorkspace\trista\sso-common\src\main\java\com\example\sso\common\dto\UserAuth.java
+D:\IdeaWorkspace\trista\sso-common\src\main\java\com\example\sso\common\filter\ShiroAuthFilter.java
+D:\IdeaWorkspace\trista\sso-common\src\main\java\com\example\sso\common\param\UserAuthParam.java
+D:\IdeaWorkspace\trista\sso-common\src\main\java\com\example\sso\common\service\AuthService.java
+D:\IdeaWorkspace\trista\sso-common\src\main\java\com\example\sso\common\anno\RequiredPermission.java

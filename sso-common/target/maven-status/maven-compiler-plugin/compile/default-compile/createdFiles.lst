@@ -1,0 +1,9 @@
+com\example\sso\common\anno\RequiredPermission.class
+com\example\sso\common\dto\UserAuth.class
+com\example\sso\common\SsoCommonApplication.class
+com\example\sso\common\anno\Logical.class
+com\example\sso\common\anno\RequiredRoles.class
+com\example\sso\common\param\UserAuthParam.class
+com\example\sso\common\filter\ShiroAuthFilter.class
+com\example\sso\common\service\AuthService.class
+com\example\sso\common\dto\ResultInfo.class
